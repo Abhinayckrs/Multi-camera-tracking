@@ -11,7 +11,7 @@
 
 https://github.com/user-attachments/assets/b8653f5e-68ef-458b-93ad-278cc5a41f4b
 
-
+<img width="1200" height="1200" alt="trajec" src="https://github.com/user-attachments/assets/944e75f4-1707-4c26-a94b-48a5520036e7" />
 
 > Annotated dual-camera output with global IDs and fused trajectory plot.
 
