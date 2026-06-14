@@ -15,8 +15,6 @@ https://github.com/user-attachments/assets/b8653f5e-68ef-458b-93ad-278cc5a41f4b
 
 > Annotated dual-camera output with global IDs and fused trajectory plot.
 
-*(Upload your fused_output.avi and trajectory_final.png to the repo, then they will appear here)*
-
 ---
 
 ## Problem Statement
